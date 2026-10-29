@@ -1,0 +1,507 @@
+[
+  {
+    "title": "Introduction",
+    "file": "index.html",
+    "parent": null
+  },
+  {
+    "title": "Preface",
+    "file": "preface.html",
+    "parent": null
+  },
+  {
+    "title": "What you need",
+    "file": "what-you-need.html",
+    "parent": null
+  },
+  {
+    "title": "How to use this guide and Learn Japanese",
+    "file": "how-to-use-this-guide-and-learn-japanese.html",
+    "parent": null
+  },
+  {
+    "title": "\"Help!\"",
+    "file": "help.html",
+    "parent": null
+  },
+  {
+    "title": "Table of Contents",
+    "file": "toc.html",
+    "parent": null
+  },
+  {
+    "title": "Introduction",
+    "file": "intro.html",
+    "parent": null
+  },
+  {
+    "title": "SECTION ONE: ABSOLUTE BEGINNER",
+    "file": "beginner.html",
+    "parent": null
+  },
+  {
+    "title": "Part 1: Getting Started",
+    "file": "part1.html",
+    "parent": "beginner.html"
+  },
+  {
+    "title": "Lesson 1: State of being with だ and です",
+    "file": "being.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Vowels",
+    "file": "i_vowels.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 2: Nouns, pronouns",
+    "file": "noun.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Long vowels and gemination",
+    "file": "i_longvowels.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 3: Particles and grammatical case",
+    "file": "case.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Devoicing",
+    "file": "i_devoicing.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 4: の means の: possession and attributes; bonus: honorifics",
+    "file": "no.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Spelling irregularities",
+    "file": "i_spelling.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 5: Moving things with に, へ, and から",
+    "file": "moving.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Consonant irregularity",
+    "file": "i_consonants.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 6: What is a verb? Nothing but a miserable pile of conjugations!",
+    "file": "conjugations.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: \"Synthetic\" language",
+    "file": "i_synthetic.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 7: Negated verbs and using い-adjectives",
+    "file": "negation.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: What's subarashiki about poetry anyway?",
+    "file": "i_subarashiki.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 8: The verb strikes back: the past tense",
+    "file": "theverbstrikesback.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: About jargon",
+    "file": "i_jargon.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 9: The て particle, the て form, and the imperative",
+    "file": "te.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: What even is an infinitive?",
+    "file": "i_infinitive.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 10: Being more with で, では, and じゃ",
+    "file": "dewa.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Japanese japanese grammar is bad, too, actually",
+    "file": "i_grammar.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 11: Getting detailed with relative clauses and な-adjectives",
+    "file": "relativity.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: The dreaded parse and auxiliary verbs",
+    "file": "i_parsing.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Lesson 12: Irregular verbs and basic formality",
+    "file": "irregularity.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Intermission: Keigo and some archaic speech",
+    "file": "i_keigo.html",
+    "parent": "part1.html"
+  },
+  {
+    "title": "Part 2: Rest",
+    "file": "part2.html",
+    "parent": "beginner.html"
+  },
+  {
+    "title": "Lesson 13: Questions with か and の, featuring のだ",
+    "file": "questions.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Two notes on の and のだ",
+    "file": "i_noninotes.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Lesson 14: Why, cruel world? なぜ なんで どうして",
+    "file": "why.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Notes on なぜ なんで どうして",
+    "file": "i_whynotes.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Lesson 15: Getting more with も and と",
+    "file": "more.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Single piece of trivia on と",
+    "file": "i_totrivia.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Lesson 16: Existence with いる and ある, finding である and っす",
+    "file": "existing.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Notes on いる, ある, である, and っす",
+    "file": "i_existingnotes.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Lesson 17: Enduring the pain of ている and てある",
+    "file": "enduring.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Notes on ている and てある",
+    "file": "i_enduringnotes.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Lesson 18: Demonstrating: これ, それ, あれ, どれ, and friends",
+    "file": "demonstrating.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Intermission: Notes on demonstratives",
+    "file": "i_demonstratingnotes.html",
+    "parent": "part2.html"
+  },
+  {
+    "title": "Part 3: The Gauntlet",
+    "file": "part3.html",
+    "parent": "beginner.html"
+  },
+  {
+    "title": "Lesson 19: Passive られる・あれる and so-called \"transitive pairs\"",
+    "file": "passive.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Intermission: Notes on the passive",
+    "file": "i_passivenotes.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Lesson 20: Potential れる・える and できる",
+    "file": "potential.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Intermission: Notes on the potential",
+    "file": "i_potentialnotes.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Lesson 21: Wanting with おう/よう, たい, and ほしい",
+    "file": "wanting.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Intermission: Notes on wanting",
+    "file": "i_wantingnotes.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Lesson 22: One way of saying \"if\" with ば",
+    "file": "if.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Intermission: The Gauntlet",
+    "file": "i_endofthegauntlet.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Lesson 23: Verbs review",
+    "file": "endofordeals.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "Hidden Intermission",
+    "file": "hidden-intermission.html",
+    "parent": "part3.html"
+  },
+  {
+    "title": "SECTION TWO: ABSOLUTE TERRITORY",
+    "file": "territory.html",
+    "parent": null
+  },
+  {
+    "title": "Part 4: Communicating",
+    "file": "part4.html",
+    "parent": "territory.html"
+  },
+  {
+    "title": "Lesson 24: \"Quoting\" with って and と and という/っていう/つう taking note of だって",
+    "file": "quoting.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 25: Adverbs with と-adverbs, に-adverbs, and い-adjectives even",
+    "file": "adverbs.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 26: Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ",
+    "file": "enders.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 27: Asking kindly with なさい, ください; prohibition with な",
+    "file": "kindly.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 28: Question nouns: なに, だれ, どれ, いつ",
+    "file": "interrogating.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 29: か and も as modifying question nouns (note なんと なんて なんか)",
+    "file": "kamokamo.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 30: Saying yes and no with うん, ううん, はい, いいえ, ええ, and いや",
+    "file": "yesandno.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Lesson 31: Generic nouns and nominalization with 事, 物, ところ, and の",
+    "file": "nominalizing.html",
+    "parent": "part4.html"
+  },
+  {
+    "title": "Part 5: Getting a point across",
+    "file": "part5.html",
+    "parent": "territory.html"
+  },
+  {
+    "title": "Lesson 32: Just with だけ, のみ, ただ, ばかり, しか",
+    "file": "just.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 33: Still, already, and yet with もう まだ また",
+    "file": "still.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 34: Not wanting with まい and permission with いい, ますか/ませんか",
+    "file": "donotwant.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 35: More questions with っけ/け, かい, じゃない, and じゃん",
+    "file": "confirmation.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 36: Making lists with や and とか and と and か",
+    "file": "lists.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 37: Getting self-conscious with より and counting with つ",
+    "file": "comparing.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 38: なる and でできる, bonus causative せる, and reviewing the passive",
+    "file": "phrasalverbs.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Lesson 39: Reflexes with 自分",
+    "file": "reflexes.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Optional Lesson 2: Bonus auxiliaries: 見る, とする, と思う, と決める",
+    "file": "bonux.html",
+    "parent": "part5.html"
+  },
+  {
+    "title": "Part 6: Putting things together",
+    "file": "part6.html",
+    "parent": "territory.html"
+  },
+  {
+    "title": "Lesson 40: Being more negative: なくて, ないで, and ず and ずに",
+    "file": "without.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 41: If and when with と たら なら",
+    "file": "ifandwhen.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 42: Concurrence with ながら あいだ うちに つつ",
+    "file": "concurrence.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 43: Adversatives with が けど けれど しかし ても and でも",
+    "file": "but.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 44: Entailment with から そして ので で",
+    "file": "entailment.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 45: Linking conjunctions のに ように ために せいで だって し",
+    "file": "linking.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 46: Aspect with てしまう, ていく, てくる, ておく, ておる",
+    "file": "aspect.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Lesson 47: The normalization of でも and だって",
+    "file": "butimeanlike.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Optional Lesson 3: Formal logical conjunctions または, あるいは, 及び, and more",
+    "file": "logic.html",
+    "parent": "part6.html"
+  },
+  {
+    "title": "Part 7: Relatively speaking",
+    "file": "part7.html",
+    "parent": "territory.html"
+  },
+  {
+    "title": "Lesson 48: Expectation with わけ, はず, べき, べし, ものだ, かもしれない",
+    "file": "oughta.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 49: Approximately ころ, くらい, たり, and limits with まで, ほど, すぎる",
+    "file": "approximately.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 50: Doing the time with 後, 前/先, 時 (note さっき)",
+    "file": "thetime.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 51: Likeness with らしい ぽい そう など",
+    "file": "likeness.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 52: Being done for someone with やる あげる もらう くれる",
+    "file": "giving.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 53: Wrongness with だめ, いけない, ならない, featuring \"must\", and bonus, some contractions",
+    "file": "wrongness.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Lesson 54: \"Oh well\" and \"I can't help it\" with \"It can't be helped\"",
+    "file": "itcantbehelped.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Optional Lesson 4: Under the rug: A mess of particles and auxiliaries",
+    "file": "undertherug.html",
+    "parent": "part7.html"
+  },
+  {
+    "title": "Closing Words",
+    "file": "closing-words.html",
+    "parent": null
+  },
+  {
+    "title": "License",
+    "file": "license.html",
+    "parent": null
+  },
+  {
+    "title": "Dedication",
+    "file": "dedication.html",
+    "parent": null
+  },
+  {
+    "title": "Other resources",
+    "file": "other-resources.html",
+    "parent": null
+  },
+  {
+    "title": "Changelog",
+    "file": "changelog.html",
+    "parent": null
+  }
+]
