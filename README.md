@@ -1,6 +1,6 @@
 # Sakubi — Yesterday’s Grammar Guide
 
-![Website preview](assets/sakubi_image.png)
+![Webside preview](assets/sakubi_image.png)
 
 A free Japanese grammar guide with a book-style reading interface inspired by [Yokubi](https://yoku.bi/Introduction.html).
 
@@ -37,7 +37,6 @@ External learning resources and the embedded YouTube video require an internet c
 
 Open `index.html` in your browser.
 
-![Home page](assets/my-screenshot.png)
 ```
 
 ## Keep the README formatting
